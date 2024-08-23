@@ -40,7 +40,7 @@ nav{
     text-decoration: none;
     padding: 10px , 20px; 
 }
-
+/* 
 /* small screen 1000px */
 
 @media(max-width: 1000px) {
@@ -57,7 +57,7 @@ nav{
     .anchor-tags{
         padding: 10px 10px;
     }
-}
+} */
 
 /* tabs */
 /* 
